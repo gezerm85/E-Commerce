@@ -39,7 +39,8 @@ function ProductDetailCard({ item }) {
         <p className="title-desc">{description}</p>
         <h1 className="title-price">{price}</h1>
         <div className="change">
-          <FaPlus onClick={() => setCount(count + 1)} /> {count}{" "}
+          <FaPlus onClick={() => setCount(count + 1)} />
+          <span className="count">{count}</span>
           <FaMinus onClick={() => setCount(count - 1)} />
         </div>
         <div>

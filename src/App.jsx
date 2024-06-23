@@ -37,7 +37,7 @@ function App() {
             })}
           <div className="basket-payment">
             <div>
-              <h1>Toplam: {totalAmount.toFixed(3)} $</h1>
+              <h1>Toplam: {totalAmount.toFixed(2)} $</h1>
             </div>
             <div className="flex-row">
               <button className="payment-btn">Ödemeyi Tamamla</button>
