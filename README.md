@@ -346,11 +346,9 @@ Bu e-ticaret uygulaması, modern web teknolojileri kullanılarak geliştirilmiş
 
 **Proje Hakkında Sorularınız İçin:**
 
-- 📧 **E-posta:** [senin-email@example.com]
-- 💼 **LinkedIn:** [LinkedIn Profilin]
-- 🐙 **GitHub:** [GitHub Profilin]
-- 🌐 **Portfolio:** [Portfolio Website]
-
+- 📧 **E-posta:** [gezermcelebi@gmail.com](mailto:gezermcelebi@gmail.com)
+- 💼 **LinkedIn:** [Mehmet Çelebi Gezer](https://www.linkedin.com/in/mehmet-%C3%A7elebi-gezer-605a38217/)
+- 🐙 **GitHub:** [@gezerm85](https://github.com/gezerm85)
 ---
 
 <div align="center">
